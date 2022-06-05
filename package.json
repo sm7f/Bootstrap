@@ -1,12 +1,12 @@
 {
   "name": "home",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sistematizacao",
   "main": "script.js",
   "scripts": {
     "start": "http-server . -c-1"
   },
-  "author": "",
+  "author": "Herberth Amorim",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.0-beta1",
